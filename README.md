@@ -1,0 +1,2 @@
+# Haskman
+Hangman in Haskell
